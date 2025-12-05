@@ -1,5 +1,6 @@
 
-<img src="cybersecurity_data_generator2.png" 
+<p align="center">
+  <img src="cybersecurity_data_generator2.png" 
        alt="Centered Image" 
        style="width: 300px; height: auto;">
 </p>
