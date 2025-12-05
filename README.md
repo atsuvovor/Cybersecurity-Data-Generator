@@ -14,22 +14,8 @@
 
 ---
 
-... (Rest of your README content)  
 
-#CyberThreat Insight  - Cybersecurity Data Generator  
-Anomalous Behavior Detection in Cybersecurity Analytics using Generative AI  
-
-**Toronto, September 01 2025**  
-**Autor : Atsu Vovor**
->Master of Management in Artificial Intelligence    
->Consultant Data Analytics Specialist | Machine Learning |  
-Data science | Quantitative Analysis |French & English Bilingual  
-
-**Model Name:** Cybersecurity Data Generator
-
-**Model Type:** Data Generator
-
-## Project Overview
+## Overview
 
 This project provides a Python script designed to generate synthetic cybersecurity issue data. The goal is to create a realistic dataset that simulates both normal and anomalous cybersecurity events, which can be used for various purposes such as:
 
