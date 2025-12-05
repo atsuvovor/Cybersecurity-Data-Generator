@@ -5,7 +5,11 @@
        style="width: 600px; height: auto;">
 </p>
 🔗 **Live Dashboard:**
-[https://atsu-vovor-ofac-sdn-risk-dashboard.streamlit.app/l](https://atsu-vovor-ofac-sdn-risk-dashboard.streamlit.app/)  
+[https://atsu-vovor-ofac-sdn-risk-dashboard.streamlit.app/l](https://atsu-vovor-ofac-sdn-risk-dashboard.streamlit.app/) 
+<a 
+  href=\"https://colab.research.google.com/github/atsuvovor/Cybersecurity-Data-Generator/blob/main/CyberInsightDataGenerator.ipynb\" target=\"_parent\">
+    <img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/>
+</a>
 
 #CyberThreat Insight  - Cybersecurity Data Generator  
 Anomalous Behavior Detection in Cybersecurity Analytics using Generative AI  
