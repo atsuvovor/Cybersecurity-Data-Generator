@@ -12,37 +12,9 @@
 </a>
 
 #
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "private_outputs": true,
-      "provenance": [],
-      "authorship_tag": "ABX9TyOS7+np750iDB55U+OtLUn6",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
         "<a href=\"https://colab.research.google.com/github/atsuvovor/Cybersecurity-Data-Generator/blob/main/CyberInsightDataGenerator.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    }
+      
 #
-
 #CyberThreat Insight  - Cybersecurity Data Generator  
 Anomalous Behavior Detection in Cybersecurity Analytics using Generative AI  
 
