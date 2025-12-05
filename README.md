@@ -91,7 +91,7 @@ Potential future enhancements for this project include:
 *   Developing a user interface or command-line tool for easier configuration and execution of the data generator.
 *   Exploring different data formats for saving the generated data (e.g., Parquet, JSON).
 
-'''
+```python
 !git clone https://github.com/atsuvovor/Cybersecurity-Data-Generator.git
 %run /content/Cybersecurity-Data-Generator/cyberdatagen.py
 '''
