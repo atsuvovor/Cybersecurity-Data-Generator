@@ -5,12 +5,6 @@
        style="width: 600px; height: auto;">
 </p>
 🔗 **Live Dashboard:**
-[https://atsu-vovor-ofac-sdn-risk-dashboard.streamlit.app/l](https://atsu-vovor-ofac-sdn-risk-dashboard.streamlit.app/)   
-
-# My Project Title
-
-This is an awesome project! Click the badge below to run the notebook in Google Colab.
-
 <a 
   href="https://colab.research.google.com/github/atsuvovor/Cybersecurity-Data-Generator/blob/main/CyberInsightDataGenerator.ipynb" 
   target="_parent"
@@ -19,8 +13,6 @@ This is an awesome project! Click the badge below to run the notebook in Google 
 </a>
 
 ---
-
-## Getting Started
 
 ... (Rest of your README content)  
 
