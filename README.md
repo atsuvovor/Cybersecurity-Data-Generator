@@ -12,13 +12,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-🔗 Live Dashboard:
-<a 
-  href="https://colab.research.google.com/github/atsuvovor/Cybersecurity-Data-Generator/blob/main/CyberInsightDataGenerator.ipynb" 
-  target="_blank"
->
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+
 ## Overview
 
 This project provides a Python script designed to generate synthetic cybersecurity issue data. The goal is to create a realistic dataset that simulates both normal and anomalous cybersecurity events, which can be used for various purposes such as:
