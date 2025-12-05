@@ -88,3 +88,14 @@ Potential future enhancements for this project include:
 !git clone https://github.com/atsuvovor/Cybersecurity-Data-Generator.git
 %run /content/Cybersecurity-Data-Generator/cyberdatagen.py
 ```
+
+##  🤝 Connect With Me
+I am always open to collaboration and discussion about new projects or technical roles.
+
+Atsu Vovor  
+Consultant, Data & Analytics   
+Ph: 416-795-8246 | ✉️ atsu.vovor@bell.net  
+🔗 [LinkedIn ](https://www.linkedin.com/in/atsu-vovor-mmai-9188326/)|   [GitHub](https://atsuvovor.github.io/projects_portfolio.github.io/) |   [Tableau Portfolio](https://public.tableau.com/app/profile/atsu.vovor8645/vizzes)  
+📍 Mississauga ON   
+
+### Thank you for visiting!🙏
