@@ -7,15 +7,22 @@
 🔗 **Live Dashboard:**
 [https://atsu-vovor-ofac-sdn-risk-dashboard.streamlit.app/l](https://atsu-vovor-ofac-sdn-risk-dashboard.streamlit.app/)   
 
+# My Project Title
+
+This is an awesome project! Click the badge below to run the notebook in Google Colab.
+
 <a 
-  href=\"https://colab.research.google.com/github/atsuvovor/Cybersecurity-Data-Generator/blob/main/CyberInsightDataGenerator.ipynb\" target=\"_parent\">
-    <img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/>
+  href="https://colab.research.google.com/github/atsuvovor/Cybersecurity-Data-Generator/blob/main/CyberInsightDataGenerator.ipynb" 
+  target="_parent"
+>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-  
+---
 
-        <a href=\"https://colab.research.google.com/github/atsuvovor/Cybersecurity-Data-Generator/blob/main/CyberInsightDataGenerator.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
-      
+## Getting Started
+
+... (Rest of your README content)  
 
 #CyberThreat Insight  - Cybersecurity Data Generator  
 Anomalous Behavior Detection in Cybersecurity Analytics using Generative AI  
