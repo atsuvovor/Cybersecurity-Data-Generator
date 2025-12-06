@@ -1,3 +1,19 @@
+#Author: Atsu Vovor
+# =======================
+# Required Libraries
+# =======================
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import seaborn as sns
+
+from sklearn.preprocessing import MinMaxScaler
+
+# For notebook environments; if using a .py file, you can remove display()
+from IPython.display import display
+
+
 def normalize_numerical_features(p_df):
     scaler = MinMaxScaler()
     p_df_daily = p_df.copy()
