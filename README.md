@@ -54,11 +54,11 @@ The script is organized into several classes, each responsible for a specific pa
            Detects categorical vs numerical features.
            Highlights distributions, outliers, and correlations.  
         📌 The core of classical EDA, enabling users to spot anomalies and trends.
-
         2. Visualization
             Plots histograms, correlation heatmaps, and categorical distributions.
             Supports matplotlib and seaborn for visual clarity.  
-        📌 Visual EDA complements numerical summaries by revealing hidden structures.   
+        📌 Visual EDA complements numerical summaries by revealing hidden structures.
+       
 ## How to Use the Script
 
 1.  **Run the Code Cell:** Execute the Python code cell containing the script.
