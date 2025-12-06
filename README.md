@@ -48,7 +48,17 @@ The script is organized into several classes, each responsible for a specific pa
 
 *   **`DataDisplay`**: This class provides functionality to display information about the generated DataFrames.
     *   The `display_the_data_frames` method uses `display()` to show the head, info, and describe outputs for each generated DataFrame, allowing for a quick overview of the data structure and statistics.
+*   Display Plottings  
+        1. Descriptive Statistics
+           Computes summary statistics (.describe()).
+           Detects categorical vs numerical features.
+           Highlights distributions, outliers, and correlations.  
+        📌 The core of classical EDA, enabling users to spot anomalies and trends.
 
+        2. Visualization
+            Plots histograms, correlation heatmaps, and categorical distributions.
+            Supports matplotlib and seaborn for visual clarity.  
+        📌 Visual EDA complements numerical summaries by revealing hidden structures.   
 ## How to Use the Script
 
 1.  **Run the Code Cell:** Execute the Python code cell containing the script.
