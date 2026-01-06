@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="cybersecurity_data_generator2.png" 
+  <img src="https://github.com/atsuvovor/Cybersecurity-Data-Generator/blob/main/cybersecurity_data_generator2.png" 
        alt="Centered Image" 
        style="width: 600px; height: auto;">
 </p>
