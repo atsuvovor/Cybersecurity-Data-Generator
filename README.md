@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/atsuvovor/Cybersecurity-Data-Generator/blob/main/cybersecurity_data_generator2.png" 
        alt="Centered Image" 
-       style="width: 600px; height: auto;">
+       style="width: 1000px; height: auto;">
 </p>
 🔗 Live Dashboard:
 <a 
